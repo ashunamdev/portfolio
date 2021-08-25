@@ -1,0 +1,8 @@
+.app {
+  font-size: 20px;
+  text-align: center;
+  background: gray;
+  font-family: arial;
+  height: 100vh;
+  width: 100vw;
+}
